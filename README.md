@@ -17,7 +17,7 @@ MIT
 - [Budget Tracker](https://github.com/Meddle74/pwa-Budget-Tracker)
 
 ## App
-- [Budget Tracker App on Heroku](https://meddle74-fitness-tracker.herokuapp.com/)
+- [Budget Tracker App on Heroku](https://traveling-budget-app.herokuapp.com/)
 ## GitHub
 - Email: jpatricklloyd@gmail.com
 - [GitHub Profile](https://github.com/Meddle74)
